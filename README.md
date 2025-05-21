@@ -8,6 +8,7 @@ Watch the tutorials on [YouTube](https://youtube.com/@Acawon)!
 - ✅ Checkbox
 - ✅ Switches
 - ✅ Radio Buttons
+- ✅ Accordion
 - 🔥 More coming soon...
 
 ## Follow me
