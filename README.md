@@ -9,6 +9,7 @@ Watch the tutorials on [YouTube](https://youtube.com/@Acawon)!
 - ✅ Switches
 - ✅ Radio Buttons
 - ✅ Accordion
+- ✅ Login [Sign in]
 - 🔥 More coming soon...
 
 ## Follow me
