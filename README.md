@@ -10,6 +10,7 @@ Watch the tutorials on [YouTube](https://youtube.com/@Acawon)!
 - ✅ Radio Buttons
 - ✅ Accordion
 - ✅ Login [Sign in]
+- ✅ Register
 - 🔥 More coming soon...
 
 ## Follow me
