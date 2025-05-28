@@ -11,6 +11,7 @@ Watch the tutorials on [YouTube](https://youtube.com/@Acawon)!
 - ✅ Accordion
 - ✅ Login [Sign in]
 - ✅ Register
+- ✅ Dismissible Alerts with Icons
 - 🔥 More coming soon...
 
 ## Follow me
