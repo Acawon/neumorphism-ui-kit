@@ -13,6 +13,7 @@ Watch the tutorials on [YouTube](https://youtube.com/@Acawon)!
 - ✅ Register
 - ✅ Dismissible Alerts with Icons
 - ✅ Color Dropdown Menu
+- ✅ Alert Components with Progress Bars & Action Buttons
 - 🔥 More coming soon...
 
 ## Follow me
