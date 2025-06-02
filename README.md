@@ -12,6 +12,7 @@ Watch the tutorials on [YouTube](https://youtube.com/@Acawon)!
 - ✅ Login [Sign in]
 - ✅ Register
 - ✅ Dismissible Alerts with Icons
+- ✅ Dismissible Alerts with Icons
 - 🔥 More coming soon...
 
 ## Follow me
