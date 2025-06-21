@@ -15,6 +15,8 @@ Watch the tutorials on [YouTube](https://youtube.com/@Acawon)!
 - ✅ Color Dropdown Menu
 - ✅ Alert Components with Progress Bars & Action Buttons
 - ✅ Tabs
+- ✅ Pricing Cards
+- ✅ To-Do List
 - 🔥 More coming soon...
 
 ## Follow me
